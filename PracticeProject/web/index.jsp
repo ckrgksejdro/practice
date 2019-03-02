@@ -7,6 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>깃허브에 잘 올라가나??</h1>
 </body>
 </html>
